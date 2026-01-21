@@ -137,8 +137,6 @@ models/
 ├─ stage3_model11_adaboost.py
 └─ stage3_model12_svm.py
 
-(Names may vary slightly depending on how you saved them, but the logic is the same.)
-
 How to Run
 
 1. Requirements
@@ -227,9 +225,6 @@ python models/stage3_model12_svm.py
 
 …and similarly for the other model scripts.
 
-Note: Models are not automatically saved to disk in these scripts, but you can add something like:
-joblib.dump(pipeline, "model_name.joblib")
-if you want to persist them.
 
 Hardware Requirements
 
@@ -308,5 +303,3 @@ Training Steps (Summary)
   * Confusion matrix and classification report
   * Training time
   * Inference time (total and per sample)
-
-This pipeline gives a full end-to-end system: from raw IMU signals to trained classifiers that can recognize the football skill being performed.
