@@ -303,3 +303,42 @@ Training Steps (Summary)
   * Confusion matrix and classification report
   * Training time
   * Inference time (total and per sample)
+
+Done By:
+Omar Abouelela
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+O.Ela0052@student.aast.edu
+
+Ismail Kassem
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+I.Kassem0082@student.aast.edu 
+
+Omar Sherif
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+O.Moussa0082@student.aast.edu
+
+Ahmed Samy
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+A.Fadl0354@student.aast.edu 
+
+Mazen Mohab
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+M.Ammar0190@student.aast.edu
+
+Omar Hossam
+dept. of Electronics & Communication
+College of Engineering & tech., AASTMT
+Alexandria, Egypt
+0.Farag0352@student.aast.edu 
+
+
