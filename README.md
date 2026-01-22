@@ -305,6 +305,7 @@ Training Steps (Summary)
   * Inference time (total and per sample)
 
 Done By:
+
 Omar Abouelela
 dept. of Electronics & Communication
 College of Engineering & tech., AASTMT
